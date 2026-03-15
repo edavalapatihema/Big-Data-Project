@@ -1,7 +1,5 @@
-Team Members: 
-- Kseniia Biriukova: U59803373
-- Zeina Kamal: U92352202
-- Anish Babu Gogineni: U07120480
+
+
 - Hema Edavalapati:
 
 Environment: Google Colab
